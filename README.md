@@ -1,3 +1,8 @@
+TODOS
+- fix outline of headshot
+- change colors, purple, blue, white?
+- new font
+
 # 20 React: React Portfolio
 
 ## Your Task
