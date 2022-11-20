@@ -34,7 +34,12 @@ header {
     background: var(--color-primary);
 }
 
+.header__socials a {
+    font-size: 1.5rem;
+}
+
 /* Headshot */
+/* first parameter in 'padding' pulls image down */
 .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
@@ -44,6 +49,5 @@ header {
     margin-top: 4rem;
     border-radius: 10rem 10rem 0 0;
     overflow: hidden;
-    /* first parameter pulls image down */
-    padding: 2rem 1.5rem 1.5rem 1.5rem;
+    padding: 2rem 1rem 1rem 1rem;
 }
