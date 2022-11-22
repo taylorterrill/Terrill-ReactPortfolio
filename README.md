@@ -2,6 +2,8 @@ TODOS
 - fix outline of headshot
 - change colors, purple, blue, white?
 - new font
+- h5 tags?
+- text when hovering over icons
 
 # 20 React: React Portfolio
 
