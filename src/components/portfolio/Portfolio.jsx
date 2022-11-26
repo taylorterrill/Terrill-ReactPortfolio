@@ -1,51 +1,52 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpg';
-import IMG2 from '../../assets/portfolio2.jpg';
-import IMG3 from '../../assets/portfolio3.jpg';
-import IMG4 from '../../assets/portfolio4.jpg';
-import IMG5 from '../../assets/portfolio5.png';
-import IMG6 from '../../assets/portfolio6.jpg';
+import IMGTaskMaster from '../../assets/construction.jpg';
+import IMGSocialNetwork from '../../assets/SocialNetwork.jpg';
+import IMGTechBlog from '../../assets/TechBlog.jpg';
+import IMGECom from '../../assets/ECommerce.jpg';
+import IMGRecipeFinder from '../../assets/RecipeFinder.jpg';
+
+
 
 const data = [
   {
     id: 1,
-    image: IMG1,
-    title: 'Band Website: Cardboard Club',
-    github: 'https://github.com/taylorterrill/cardboardclub',
-    demo: 'https://cardboardclubmusic.com'
+    image: IMGTaskMaster,
+    title: 'Task Master: Productivity Application (Coming Soon)',
+    github: 'https://github.com/MarshallJacob/the_task_master',
+    demo: ''
   },
   {
     id: 2,
-    image: IMG2,
-    title: 'Band Website: Cardboard Club',
-    github: 'https://github.com/taylorterrill/cardboardclub',
-    demo: 'https://cardboardclubmusic.com'
+    image: IMGSocialNetwork,
+    title: 'Social Network API',
+    github: 'https://github.com/taylorterrill/18_SocialNetworkAPI_Terrill',
+    demo: 'https://www.youtube.com/watch?v=MJqlbmFK_BE'
   },
   {
     id: 3,
-    image: IMG3,
-    title: 'Band Website: Cardboard Club',
-    github: 'https://github.com/taylorterrill/cardboardclub',
-    demo: 'https://cardboardclubmusic.com'
+    image: IMGTechBlog,
+    title: 'Tech Blog',
+    github: 'https://github.com/taylorterrill/14_Tech-Blog_Terrill',
+    demo: 'https://young-anchorage-23712.herokuapp.com/'
   },
   {
     id: 4,
-    image: IMG4,
-    title: 'Band Website: Cardboard Club',
-    github: 'https://github.com/taylorterrill/cardboardclub',
-    demo: 'https://cardboardclubmusic.com'
+    image: IMGECom,
+    title: 'E Commerce Backend',
+    github: 'https://github.com/taylorterrill/13_E-Commerce_Terrill',
+    demo: 'https://www.youtube.com/watch?v=lbIzwwv8g9E'
   },
   {
     id: 5,
-    image: IMG5,
-    title: 'Band Website: Cardboard Club',
-    github: 'https://github.com/taylorterrill/cardboardclub',
-    demo: 'https://cardboardclubmusic.com'
+    image: IMGRecipeFinder,
+    title: 'Recipe Finder',
+    github: 'https://github.com/taylorterrill/Recipe-Finder',
+    demo: 'https://murmuring-sea-48556.herokuapp.com/'
   },
   {
     id: 6,
-    image: IMG6,
+    image: IMGTaskMaster,
     title: 'Band Website: Cardboard Club',
     github: 'https://github.com/taylorterrill/cardboardclub',
     demo: 'https://cardboardclubmusic.com'
