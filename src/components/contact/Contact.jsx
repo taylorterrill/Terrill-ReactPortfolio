@@ -2,8 +2,21 @@ import React from 'react';
 import './contact.css';
 import { AiOutlineMail } from 'react-icons/ai';
 import { AiOutlinePhone } from 'react-icons/ai';
+import { useRef } from 'react';
+import emailjs from 'emailjs-com';
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_j7x8953', 'template_nyi4lsh', form.current, '4Fuz2xihjzjCIqfKY')
+    
+    e.target.reset();
+  };
+
+
   return (
     <section id='contact'>
       <h5>Let's Talk</h5>
@@ -24,7 +37,7 @@ const Contact = () => {
             <a href='tel: 801-628-9404' target="_blank">Call or Text</a>
           </article>
         </div>
-        <form action=''>
+        <form ref={form} onSubmit={sendEmail}>
           <input type='text' name='name' placeholder='Full Name' required />
           <input type='email' name='email' placeholder="Email Address" required />
           <textarea name='message' rows='7' placeholder='Message' required></textarea>
@@ -33,7 +46,6 @@ const Contact = () => {
       </div>
     </section>
   )
-
-}
+};
 
 export default Contact
