@@ -4,8 +4,8 @@ import './resume.css';
 // TODO add download button
 const Resume = () => {
   return (
-    <section id='resume'>
-      <h2>Resume</h2>
+    <section id='resume' className='resume'>
+      <h5>Resume</h5>
       <h2>WIP</h2>
     </section>
   )

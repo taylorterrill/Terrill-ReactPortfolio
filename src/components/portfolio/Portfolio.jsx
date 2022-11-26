@@ -11,14 +11,14 @@ import IMGRecipeFinder from '../../assets/RecipeFinder.jpg';
 const data = [
   {
     id: 1,
-    image: IMGTaskMaster,
+    image: IMGTechBlog,
     title: 'Task Master: Productivity Application (Coming Soon)',
     github: 'https://github.com/MarshallJacob/the_task_master',
     demo: ''
   },
   {
     id: 2,
-    image: IMGSocialNetwork,
+    image: IMGTechBlog,
     title: 'Social Network API',
     github: 'https://github.com/taylorterrill/18_SocialNetworkAPI_Terrill',
     demo: 'https://www.youtube.com/watch?v=MJqlbmFK_BE'
@@ -32,22 +32,22 @@ const data = [
   },
   {
     id: 4,
-    image: IMGECom,
+    image: IMGTechBlog,
     title: 'E Commerce Backend',
     github: 'https://github.com/taylorterrill/13_E-Commerce_Terrill',
     demo: 'https://www.youtube.com/watch?v=lbIzwwv8g9E'
   },
   {
     id: 5,
-    image: IMGRecipeFinder,
+    image: IMGTechBlog,
     title: 'Recipe Finder',
     github: 'https://github.com/taylorterrill/Recipe-Finder',
     demo: 'https://murmuring-sea-48556.herokuapp.com/'
   },
   {
     id: 6,
-    image: IMGTaskMaster,
-    title: 'Band Website: Cardboard Club',
+    image: IMGTechBlog,
+    title: 'Band Website: Cardboard Club (Coming Soon)',
     github: 'https://github.com/taylorterrill/cardboardclub',
     demo: 'https://cardboardclubmusic.com'
   },
