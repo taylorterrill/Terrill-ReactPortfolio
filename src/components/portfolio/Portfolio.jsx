@@ -12,9 +12,9 @@ const data = [
   {
     id: 1,
     image: IMGTechBlog,
-    title: 'Task Master: Productivity Application (Coming Soon)',
+    title: 'The Task Master 3000: Productivity Application',
     github: 'https://github.com/MarshallJacob/the_task_master',
-    demo: ''
+    demo: 'https://the-task-master-3000.herokuapp.com/'
   },
   {
     id: 2,
