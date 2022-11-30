@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.bfa1e581.css",
-    "main.js": "/my-app/static/js/main.8fc5bed4.js",
-    "static/media/TechBlog.jpg": "/my-app/static/media/TechBlog.97f791988949156a3d48.jpg",
-    "static/media/headshot2020.png": "/my-app/static/media/headshot2020.8207e89ffeecd070e1c3.png",
-    "static/media/construction.jpg": "/my-app/static/media/construction.016cfd241e3ae4dbdbbe.jpg",
-    "static/media/me-about.jpg": "/my-app/static/media/me-about.496fd597668b501265de.jpg",
-    "static/media/RecipeFinder.jpg": "/my-app/static/media/RecipeFinder.eb96f6c85852855f8bee.jpg",
-    "static/media/SocialNetwork.jpg": "/my-app/static/media/SocialNetwork.cd64bdbd60ba4f4134da.jpg",
-    "static/media/ECommerce.jpg": "/my-app/static/media/ECommerce.207fc97b68565765c8fd.jpg",
-    "index.html": "/my-app/index.html",
-    "main.bfa1e581.css.map": "/my-app/static/css/main.bfa1e581.css.map",
-    "main.8fc5bed4.js.map": "/my-app/static/js/main.8fc5bed4.js.map"
+    "main.css": "/Terrill-ReactPortfolio/static/css/main.bfa1e581.css",
+    "main.js": "/Terrill-ReactPortfolio/static/js/main.3e378316.js",
+    "static/media/TechBlog.jpg": "/Terrill-ReactPortfolio/static/media/TechBlog.97f791988949156a3d48.jpg",
+    "static/media/headshot2020.png": "/Terrill-ReactPortfolio/static/media/headshot2020.8207e89ffeecd070e1c3.png",
+    "static/media/construction.jpg": "/Terrill-ReactPortfolio/static/media/construction.016cfd241e3ae4dbdbbe.jpg",
+    "static/media/me-about.jpg": "/Terrill-ReactPortfolio/static/media/me-about.496fd597668b501265de.jpg",
+    "static/media/RecipeFinder.jpg": "/Terrill-ReactPortfolio/static/media/RecipeFinder.eb96f6c85852855f8bee.jpg",
+    "static/media/SocialNetwork.jpg": "/Terrill-ReactPortfolio/static/media/SocialNetwork.cd64bdbd60ba4f4134da.jpg",
+    "static/media/ECommerce.jpg": "/Terrill-ReactPortfolio/static/media/ECommerce.207fc97b68565765c8fd.jpg",
+    "index.html": "/Terrill-ReactPortfolio/index.html",
+    "main.bfa1e581.css.map": "/Terrill-ReactPortfolio/static/css/main.bfa1e581.css.map",
+    "main.3e378316.js.map": "/Terrill-ReactPortfolio/static/js/main.3e378316.js.map"
   },
   "entrypoints": [
     "static/css/main.bfa1e581.css",
-    "static/js/main.8fc5bed4.js"
+    "static/js/main.3e378316.js"
   ]
 }
